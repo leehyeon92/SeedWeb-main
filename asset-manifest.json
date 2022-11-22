@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SeedWeb-main/static/css/main.c64dc5f5.chunk.css",
-    "main.js": "/SeedWeb-main/static/js/main.311b5a07.chunk.js",
-    "main.js.map": "/SeedWeb-main/static/js/main.311b5a07.chunk.js.map",
+    "main.js": "/SeedWeb-main/static/js/main.a93ab8f9.chunk.js",
+    "main.js.map": "/SeedWeb-main/static/js/main.a93ab8f9.chunk.js.map",
     "runtime-main.js": "/SeedWeb-main/static/js/runtime-main.c6cfca51.js",
     "runtime-main.js.map": "/SeedWeb-main/static/js/runtime-main.c6cfca51.js.map",
     "static/js/2.5e4e3f14.chunk.js": "/SeedWeb-main/static/js/2.5e4e3f14.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.c6cfca51.js",
     "static/js/2.5e4e3f14.chunk.js",
     "static/css/main.c64dc5f5.chunk.css",
-    "static/js/main.311b5a07.chunk.js"
+    "static/js/main.a93ab8f9.chunk.js"
   ]
 }
